@@ -6,11 +6,12 @@
 # **Project Report**
 **My Original Report in pdf format as submitted to Udacity for review.**
 **I refer to the report in the video, its 17 pages long with graphs, samples and explanations.**
+
 **Left Click the link to view online or Right Click the link to download a pdf.** [ Report Link](/John%20Reilly%20Project%202%20Traffic%20Sign%20Classifier.pdf)
 
 
 # **Project Feedback**
-**Below are 2 screenshots showing the feedback from the Udacity reviewer**
+**Below are 4 screenshots showing the feedback from the Udacity reviewer**
 
 
 <img src="/Project_2_Feedback_1.PNG" width="900" alt="Feedback screenshot 1" />
@@ -41,7 +42,7 @@ The program is in [Python 3](https://www.python.org/) running in a [Jupyter Note
 
 You can use the below conda environment to make sure all dependencies etc are present.
 
-__**Please note my repo is on its own is not enough to run the program as shown. You will need the "German Traffic Sign Data Set"  which is about 40,000 individual images of road signs. See Udacitys default README file below for links and instructions**__ 
+_**Please note my repo is on its own is not enough to run the program as shown. You will need the "German Traffic Sign Data Set"  which is about 40,000 individual images of road signs. See Udacitys default README file below for links and instructions**_ 
 
 
 Clone the Udacity project repo below, download my notebook and run in the same folder 
