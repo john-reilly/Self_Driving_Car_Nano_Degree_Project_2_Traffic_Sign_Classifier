@@ -1,13 +1,16 @@
 # **Presentation Video**
  **I present the whole project, notebook, files and outputs in a few minutes**
 
- **Right Click the link to download the video.** [ Video Link](https://raw.githubusercontent.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_1_Finding_Lane_Lines/master/output_video/out11.mp4)
+ **Right Click the link to download the video.** [ Video Link](https://github.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_2_Traffic_Sign_Classifier/blob/master/Project_2_Presentation_Video.mp4)
 
 # **Project Report**
 **My Original Report in pdf format as submitted to Udacity for review.**
 **I refer to the report in the video, its 17 pages long with graphs, samples and explanations.**
 
 **Left Click the link to view online or Right Click the link to download a pdf.** [ Report Link](/John%20Reilly%20Project%202%20Traffic%20Sign%20Classifier.pdf)
+
+# **Project Notebook**
+**The Python code was created in Jupyter Notebook and can be seen online.** [Notebook Link](https://github.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_2_Traffic_Sign_Classifier/blob/master/Traffic_Sign_Classifier_John_Reilly.ipynb)
 
 
 # **Project Feedback**
