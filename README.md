@@ -1,7 +1,7 @@
 # **Presentation Video**
  **I present the whole project, notebook, files and outputs in a few minutes**
 
- **Right Click the link to download the video.** [ Video Link](https://github.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_2_Traffic_Sign_Classifier/blob/master/Project_2_Presentation_Video.mp4)
+ **This links takes you to my Blog Site where you can play the video** [ Video Link](http://thejohnreilly.com/test/)
 
 # **Project Report**
 **My Original Report in pdf format as submitted to Udacity for review.**
